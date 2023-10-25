@@ -1,7 +1,7 @@
 # Initial description
 #This program inputs the user's first name, surname, and the year they were born. It then prints a sentence to the screen with their full name and how old they will be at the end of the year.
 #If a user's first name is Jo, their last name is Bloggs, and they were born in 2008, it would print: "Your name is Jo Bloggs and at the end of this year, you will be 15".
-#Number of errors: 3
+#This program has 3 errors.
 
 input("What year were you born in? ") = year_born
     age = 2023-int(year_born)

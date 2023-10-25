@@ -3,7 +3,7 @@
 # Work out which player won the game or if it was a draw.
 # Print the winner to the screen. If the match is a draw, then "The winner is Neither" should be printed.
 
-#This program has 5 errors.
+#This program has 3 errors.
 import random
 
 player_1 = random.choice(["Rock","Paper","Scissors"])
